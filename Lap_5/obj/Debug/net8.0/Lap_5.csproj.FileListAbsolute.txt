@@ -1,0 +1,14 @@
+E:\DEPI(C#)\Lap_5\bin\Debug\net8.0\Lap_5.exe
+E:\DEPI(C#)\Lap_5\bin\Debug\net8.0\Lap_5.deps.json
+E:\DEPI(C#)\Lap_5\bin\Debug\net8.0\Lap_5.runtimeconfig.json
+E:\DEPI(C#)\Lap_5\bin\Debug\net8.0\Lap_5.dll
+E:\DEPI(C#)\Lap_5\bin\Debug\net8.0\Lap_5.pdb
+E:\DEPI(C#)\Lap_5\obj\Debug\net8.0\Lap_5.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEPI(C#)\Lap_5\obj\Debug\net8.0\Lap_5.AssemblyInfoInputs.cache
+E:\DEPI(C#)\Lap_5\obj\Debug\net8.0\Lap_5.AssemblyInfo.cs
+E:\DEPI(C#)\Lap_5\obj\Debug\net8.0\Lap_5.csproj.CoreCompileInputs.cache
+E:\DEPI(C#)\Lap_5\obj\Debug\net8.0\Lap_5.dll
+E:\DEPI(C#)\Lap_5\obj\Debug\net8.0\refint\Lap_5.dll
+E:\DEPI(C#)\Lap_5\obj\Debug\net8.0\Lap_5.pdb
+E:\DEPI(C#)\Lap_5\obj\Debug\net8.0\Lap_5.genruntimeconfig.cache
+E:\DEPI(C#)\Lap_5\obj\Debug\net8.0\ref\Lap_5.dll
