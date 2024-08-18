@@ -1,0 +1,14 @@
+E:\DEPI(C#)\Magic_Square_Even_Order\bin\Debug\net8.0\Magic_Square_Even_Order.exe
+E:\DEPI(C#)\Magic_Square_Even_Order\bin\Debug\net8.0\Magic_Square_Even_Order.deps.json
+E:\DEPI(C#)\Magic_Square_Even_Order\bin\Debug\net8.0\Magic_Square_Even_Order.runtimeconfig.json
+E:\DEPI(C#)\Magic_Square_Even_Order\bin\Debug\net8.0\Magic_Square_Even_Order.dll
+E:\DEPI(C#)\Magic_Square_Even_Order\bin\Debug\net8.0\Magic_Square_Even_Order.pdb
+E:\DEPI(C#)\Magic_Square_Even_Order\obj\Debug\net8.0\Magic_Square_Even_Order.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEPI(C#)\Magic_Square_Even_Order\obj\Debug\net8.0\Magic_Square_Even_Order.AssemblyInfoInputs.cache
+E:\DEPI(C#)\Magic_Square_Even_Order\obj\Debug\net8.0\Magic_Square_Even_Order.AssemblyInfo.cs
+E:\DEPI(C#)\Magic_Square_Even_Order\obj\Debug\net8.0\Magic_Square_Even_Order.csproj.CoreCompileInputs.cache
+E:\DEPI(C#)\Magic_Square_Even_Order\obj\Debug\net8.0\Magic_Square_Even_Order.dll
+E:\DEPI(C#)\Magic_Square_Even_Order\obj\Debug\net8.0\refint\Magic_Square_Even_Order.dll
+E:\DEPI(C#)\Magic_Square_Even_Order\obj\Debug\net8.0\Magic_Square_Even_Order.pdb
+E:\DEPI(C#)\Magic_Square_Even_Order\obj\Debug\net8.0\Magic_Square_Even_Order.genruntimeconfig.cache
+E:\DEPI(C#)\Magic_Square_Even_Order\obj\Debug\net8.0\ref\Magic_Square_Even_Order.dll
